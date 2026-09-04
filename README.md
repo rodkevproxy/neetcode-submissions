@@ -1,7 +1,7 @@
 <div align="center">
 
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Neet+Code+Submissions;Kevin+Rodas&font=Fira+Code&center=true&width=600&height=70&color=FFFFFF&vCenter=true&pause=1000&size=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=NeetCode+Submissions;Kevin+Rodas&font=Fira+Code&center=true&width=600&height=70&color=FFFFFF&vCenter=true&pause=1000&size=45" alt="Typing SVG" />
 </a>
 
   **A Log Of My Process Solving NeetCode/LeetCode**
